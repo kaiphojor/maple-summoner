@@ -22,3 +22,7 @@ JAVA GUI 게임
 
 - 메이플스토리로부터 허용받은 범위에서 이미지, 음악 소스 사용
 
+## 동영상
+
+* 동영상 링크시 안뜨는 문제로 구글 사이트 링크
+  * https://sites.google.com/view/jihoopark/%ED%99%88
